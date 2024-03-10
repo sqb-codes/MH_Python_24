@@ -1,0 +1,120 @@
+Chat Application
+
+Data Collection
+
+Sources 
+- Internet -> Open Source Website / Scraping / API Calls
+  - API Calls -> Weather, News, Cricket Score, Stock Market
+- Files
+  - Structured - CSV, Excel
+  - Semi-Structured - JSON, XML
+  - Unstructured - Raw Text, PDF, Word Document
+- Database
+  - Structured - SQL
+  - Semi-Structured - Mongo DB
+
+
+Requirement
+- Build a sentiment analysis system
+  - classify product reviews into positive or negative
+
+End Goal - Implement Machine Learning to classify reviews
+
+1. Scrap the Data
+
+Pre-requisite to perform Scraping
+- HTML
+
+1. Hit the URL from where you want to scrap the data
+  - use package - urllib.request
+
+2. We need a package - BeautifulSoup (third-party)
+  -> pip install bs4
+  what is pip ?
+   - package manager for Python
+
+
+
+API - Application Programming Interface
+
+JSON - Javascript Object Notation
+
+{key : value} - In python it's a dictionary
+
+[] - list
+() - tuples
+{} - dictionary
+
+
+Streamlit - 
+library for making web applications using Python
+
+pip install streamlit
+
+CUI - Console User Interface
+GUI - Graphical User Interface
+	- Mobile App
+	- Web App
+	- Desktop App
+
+
+
+
+
+Data Types
+- Numeric
+  - int
+  - float
+  - complex
+- Bytes
+  - bytes
+- Boolean
+  - True
+  - False
+- Data Collection
+  - String
+  - List
+  - Tuples
+  - Dictionary
+  - Set
+
+
+String
+- collection of characters, letters, words, symbols
+- represented by "hello", 'hello', """hello""", '''hello'''
+- strings are immutable (cannot be modified)
+- internally strings are character array
+
+
+Indexing
+Slicing
+Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
