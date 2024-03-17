@@ -1,0 +1,64 @@
+Data Collections
+- String
+  - indexing
+  - slicing
+  - methods
+
+- List
+  - collection of any type of data
+  - represented by [...]
+
+  - to store data in a list : append, extend, insert
+  - to remove data from list : pop, remove
+
+  - List Comprehension
+
+- Tuple
+  - similar to list, but immutable
+  - represented by ()
+
+- Dictionary
+  - Collection of data in key and value pair
+  - data can be retrieved through keys only, it means indexing is not supported
+
+
+- Set
+
+[] -> list
+() -> tuples
+{key:value} -> dictionary 
+{} -> set
+
+
+{key : value}
+- javascript object
+- python dictionary
+- JSON
+- Java Hashmap
+
+
+DRY - Donot Repeat Yourself
+
+Refactoring
+- Change code without changing functionality
+
+
+1. When a new employee is added:
+  - add employee joining date - pick current date of laptop
+2. Implement delete and update functions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
