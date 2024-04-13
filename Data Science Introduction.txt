@@ -1,0 +1,47 @@
+Data Science
+
+Data Collection -> Data Analysis -> Data Preprocessing -> Machine Learning -> Deployment
+
+- Files		-  Cleaning	 -  Feature Scaling    -  Train Model	   -  Load Model
+- Database	-  EDA		 -  Label Encoding     -  Test Model	   -  Deploy on GUI
+- Internet	-  Visualiation	 -  Train Test Split   -  Visualize Model
+		-  Statistics			       -  Save Model
+
+Data Analysis and Visualization
+- Numpy
+- Pandas
+- Matplotlib / Seaborn / Plotly
+
+Statistics
+
+- Descriptive Statistics
+  - Meausre of Central Tendency
+    - Mean, Median, Mode
+  - Measure of Variability / Spread
+    - Range, Quartiles, Variance, Standard Deviation
+
+
+- Inferential Statistics
+  - Hypothesis (Wild guess) Testing
+
+
+Mean
+- Arihtmetic Mean
+- Weighted Mean
+- Harmonic Mean
+- Geometric Mean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
